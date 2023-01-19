@@ -7,12 +7,6 @@
   <title>Works</title>
   <link rel="stylesheet" type="text/css" href="sub.css">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <style>
-	  .gap-30 {
-		  width:100%;
-		  height:30px;
-	  }
-  </style>
 </head>
 
 <header>
@@ -20,12 +14,8 @@
       +
   </p>
 </header>
+
 <body>
-  <p>
-    <a href="https://dakodonnell.com/brandon-test">Brandon Test Shoot<span class="arrow">&#8599;&#xFE0E;</span></a>
-  </p>
-  <div class="gap-30"></div>
-  <div class="footer">
-    &#169 2023 Daniel Alexander Kent O'Donnell, All Rights Reserved
-	</div>
+  <p><a href="https://dakodonnell.com/brandon-test">Brandon Test Shoot<span class="arrow">&#8599;&#xFE0E;</span></a></p>
+  <div class="footer">&#169 2023 Daniel Alexander Kent O'Donnell, All Rights Reserved</div>
 </body>
