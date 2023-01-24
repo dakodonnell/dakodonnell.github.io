@@ -87,7 +87,7 @@ h6 {
 .linktree {
 	width: 120px;
 	height: 120px;
-	background-image: linkimages/profile.jpg;
+	background-image: url(https://dakodonnell.github.io/linkimages/profile.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
