@@ -85,12 +85,10 @@ h6 {
 	border-radius:190px;
 }
 .linktree {
-	width: 120px;
-	height: 120px;
+	width: 200px;
+	height: 200px;
 	background-image: url(https://dakodonnell.github.io/linkimages/profile.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	margin: 0 1em;
-  	border-radius: 50%;
 }
